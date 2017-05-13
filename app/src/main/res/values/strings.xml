@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">telefon_rehberi</string>
+    <string name="ad">isim</string>
+    <string name="soyad">soyisim</string>
+    <string name="kişiekle">Kişi Ekle</string>
+
+    <string name="isimgir">isim girin:</string>
+    <string name="kişilerigoster">kişileri göster</string>
+    <string name="kişiyisil">kişiyi sil</string>
+    <string name="mevcutkişiyigüncelle">kişileri göster</string>
+
+</resources>
